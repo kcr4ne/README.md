@@ -63,8 +63,8 @@ I am sharpening my skills by learning these areas:
 
 ### 🤝 Connect with Me - 연락처
 <p align="center">
-  <a href="https://dreamhack.io/users/65347"><img src="https://img.shields.io/badge/Dreamhack-0000FF?style=for-the-badge" alt="Dreamhack"/></a>
-  <a href="mailto:kylecr4ne@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://discord.com/users/k_cr4ne"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://velog.io/@k_cr4ne/posts"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=velog&logoColor=white" alt="velog"/></a>
+  <a href="https://dreamhack.io/users/65347" target="_blank"><img src="https://img.shields.io/badge/Dreamhack-0000FF?style=for-the-badge" alt="Dreamhack"/></a>
+  <a href="mailto:kylecr4ne@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discord.com/users/k_cr4ne" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://velog.io/@k_cr4ne/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=velog&logoColor=white" alt="velog"/></a>
 </p>
