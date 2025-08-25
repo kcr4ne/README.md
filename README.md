@@ -62,4 +62,5 @@ I am sharpening my skills by learning these areas:
   <a href="https://dreamhack.io/users/65347"><img src="https://img.shields.io/badge/Dreamhack-0000FF?style=for-the-badge" alt="Dreamhack"/></a>
   <a href="mailto:kylecr4ne@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://discord.com/users/k_cr4ne"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://velog.io/@k_cr4ne/posts"><img src="https://img.shields.io/badge/Blog-FFEF00?style=for-the-badge&logo=blog&logoColor=white" alt="Blog"/></a>
 </p>
