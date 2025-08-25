@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://yt3.ggpht.com/4wQlqu177Tec4ixWUW3zgJCbiZIQT9adFUWvzCVJx1Q1fIIYn8eRK2Kv7z-gpyH31xDCz2874VoMxKs=s640-c-fcrop64=1,00000000ffffffff-rw-nd-v1" width="120px"/>
+  <img src="https://yt3.ggpht.com/4wQlqu177Tec4ixWUW3zgJCbiZIQT9adFUWvzCVJx1Q1fIIYn8eRK2Kv7z-gpyH31xDCz2874VoMxKs=s640-c-fcrop64=1,00000000ffffffff-rw-nd-v1" width="250px"/>
   <h1>Hi, I'm <strong>CR4NE</strong> 👋</h1>
   <h3>Cyber_Security Student | Dukyoung High School</h3>
 </div>
