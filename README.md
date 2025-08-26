@@ -45,7 +45,7 @@ I am sharpening my skills by learning these areas:
 | Category / 분류 | Fields / 세부 분야 |
 | :--- | :--- |
 | **System Hacking** | System Hacking, Expert Level, Embedded Hacking, Linux Kernel Exploit |
-| **Web Hacking** | Web Security |
+| **Web Hacking** | Web Hacking |
 | **Languages** | Assembly, Python, C |
 <br>
 
@@ -54,8 +54,8 @@ I am sharpening my skills by learning these areas:
 ### 🛠 Tech Stack - 기술 스택
 | Category / 분류 | Skills / 보유 기술 |
 | :--- | :--- |
-| **Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/IDA-423547?style=for-the-badge&logo=ida&logoColor=white" alt="Ida"/> <img src="https://img.shields.io/badge/Ghidra-6C339F?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra"/> <img src="https://img.shields.io/badge/pwntools-7E76E8?style=for-the-badge&logo=archlinux&logoColor=white" alt="pwntools"/> |
-| **Languages** | <img src="https://img.shields.io/badge/Assembly-FF39F3?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C-CDC229?style=for-the-badge&logo=c&logoColor=white" alt="C"/> |
+| **Tools** | <img src="https://img.shields.io/badge/Docker-84FCFF?style=for-the-badge&logo=docker&logoColor=black" alt="Docker"/> <img src="https://img.shields.io/badge/IDA-423547?style=for-the-badge&logo=ida&logoColor=white" alt="Ida"/> <img src="https://img.shields.io/badge/Ghidra-6C339F?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra"/> <img src="https://img.shields.io/badge/pwntools-FF0000?style=for-the-badge&logo=archlinux&logoColor=white" alt="pwntools"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Assembly-FFE600?style=for-the-badge&logo=assemblyscript&logoColor=black" alt="Assembly"/> <img src="https://img.shields.io/badge/Python-FF00E6?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C-0066FF?style=for-the-badge&logo=c&logoColor=white" alt="C"/> |
 <br>
 
 ---
